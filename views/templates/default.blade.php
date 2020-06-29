@@ -8,5 +8,8 @@
 </head>
 <body>
     @yield('content')
+    <br>
+    <a href="@php echo DIRPAGE.'produto'; @endphp">VOLTAR</a>
 </body>
+
 </html>

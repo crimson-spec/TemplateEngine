@@ -8,5 +8,8 @@
 </head>
 <body>
     <?php echo $__env->yieldContent('content'); ?>
+    <br>
+    <a href="<?php echo DIRPAGE.'produto'; ?>">VOLTAR</a>
 </body>
+
 </html><?php /**PATH C:\xampp\htdocs\TemplateEngine\views/templates/default.blade.php ENDPATH**/ ?>
